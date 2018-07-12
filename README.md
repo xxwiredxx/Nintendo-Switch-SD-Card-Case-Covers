@@ -6,6 +6,7 @@ Below are links to all of my examples I made.
 *Bonus - Icon files for folders
 
 ### Here are some examples of the cases I made.
+#### Print your own stickers on sticker paper like these (http://a.co/0aFvj7i)
 #### They fit perfectly on these SD Card Cases from amazon (http://a.co/4XPvHwR).
 ![doom sd card case cover](https://user-images.githubusercontent.com/25444976/42608970-0563eb5a-8550-11e8-80b0-82479be95363.png)
 ![donkey kong country - tropical freeze sd card case cover](https://user-images.githubusercontent.com/25444976/42608996-13bd2b94-8550-11e8-8597-7d509d4e5568.png)
